@@ -12,3 +12,4 @@
 | [Basis-ID Sperrkonzept](./basis-id%20lock/2022-01-27_Sperrkonzept-Basis-ID.pdf) | Beschreibt den Sperrprozess einer Basis-ID ausgestellt als Hyperledger Indy Credential. | Proposed
 | [eID Integration im EESDI Ökosystem](./eid%20integration/2022-03-02_Konzept%20eID%20Integration%20im%20EESDI%20Oekosystem_V0.7.pdf) | Beschreibt eine integrierte eID und SSI Referenzarchitektur für hoheitliche und nicht hoheitliche Identifikation und Verifikation. | Proposed
 | [AnonCreds 1.0 Analyse](./anoncreds%20analysis/Anonymous_Credential_protocol_in_Indy-5.pdf) | Eine kryptographische Detailanalyse des AnonCreds 1.0 Protokolls.  | Proposed
+| [ID Wallet System Kontext](./id%20wallet%20system%20context/220222%20System%20Kontext%20Diagramm.pdf) | System Kontext der ID Wallet. | Draft
